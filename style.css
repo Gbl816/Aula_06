@@ -57,3 +57,66 @@ body {
   display: inline-block;
   margin: 0 10px;
 }
+#Menu a {
+  color: rgb(247, 247, 247);
+  text-decoration: none;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+#Menu a:hover {
+  background-color: #cc0000;
+}
+
+#nog {
+  background-color: #0c0b0b;
+  padding: 20px;
+  margin-top: 30px;
+  border-left: 6px solid #cc0000;
+  border-radius: 4px;
+}
+
+.uhu {
+  color: #444;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.na {
+  margin-top: 30px;
+  color: #cc0000;
+  font-size: 1.6em;
+}
+
+table#SPFC {
+  width: 100%;
+  margin-top: 30px;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+table#SPFC caption {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+table#SPFC tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.ce, .cd {
+  padding: 12px;
+}
+
+.ce {
+  background-color: #cc0000;
+  color: rgb(15, 15, 15);
+  font-weight: bold;
+  text-align: left;
+}
+
