@@ -120,3 +120,44 @@ table#SPFC tr {
   text-align: left;
 }
 
+.cd {
+  background-color: #f2f2f2;
+  color: #111;
+}
+
+#lateral {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #141414;
+  border-left: 6px solid #cc0000;
+  border-radius: 4px;
+}
+
+#lateral h2 {
+  margin-bottom: 10px;
+  color: #cc0000;
+}
+
+#lateral p {
+  margin-bottom: 12px;
+}
+
+#Rodape {
+  margin-top: 40px;
+  padding: 15px;
+  text-align: center;
+  background-color: #000;
+  color: white;
+  font-size: 0.9em;
+  border-radius: 4px;
+}
+
+#Rodape a {
+  color: #cc0000;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+#Rodape a:hover {
+  text-decoration: underline;
+}
