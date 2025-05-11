@@ -1,2 +1,5 @@
 # Aula_06
-Resultado da aula de hoje.
+Palmeiras não tem mundial
+Santos não tem torcida 
+corinthians é rebaixado
+O maior do país é TRI mundial e se chama SÃO PAULOOOOOOOOOO
